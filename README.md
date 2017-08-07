@@ -311,7 +311,7 @@ SWLM has the following features
 
 5. **Get installed packages**<br>
    When a get installed packages command is received from SC, it will
-   be forwarded to the package manaager to retrieve a list of all
+   be forwarded to the package manager to retrieve a list of all
    installed packages.
 
 
